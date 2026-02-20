@@ -1,12 +1,10 @@
 # 👩🏻‍💻 Eduardo Farias Oliveira
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?color=C0D14B&lines=Análise+de+Dados)](https://github.com/eduardoFFarias)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=C0D14B&lines=Analista+de+Dados)](https://github.com/eduardoFFarias)
 
 
 
-**`Analista de Dados`**
-
-<p align="center">
+<p align="cleftr">
   <a href="https://www.linkedin.com/in/eduardo-oliveira-1b8774228/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
