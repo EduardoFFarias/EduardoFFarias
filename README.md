@@ -60,7 +60,7 @@ src ="https://img.icons8.com/?size=100&id=y5utoW4FUM92&format=png&color=000000"
 <ul>
   <li>
      <b>Pokemon - API</b><br/>
-    🔗 <a href="https://github.com/vitorgabriel100/ml-brasileirao-corinthians">Ver repositório</a>
+    🔗 <a href="https://github.com/EduardoFFarias/Pokemon_API">Ver repositório</a>
   </li>
   </ul>
 
