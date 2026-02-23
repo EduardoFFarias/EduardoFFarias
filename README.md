@@ -65,13 +65,6 @@ src ="https://img.icons8.com/?size=100&id=y5utoW4FUM92&format=png&color=000000"
   </ul>
 
 ## 📊 Status & Estatísticas
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoFFarias&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoFFarias&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EduardoFFarias&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
