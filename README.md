@@ -50,7 +50,7 @@ src ="https://img.icons8.com/?size=100&id=y5utoW4FUM92&format=png&color=000000"
 </p>
 
 ### 🌎 Conecte-se comigo
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/eduardo-oliveira-1b8774228/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
