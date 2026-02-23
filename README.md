@@ -50,11 +50,21 @@ src ="https://img.icons8.com/?size=100&id=y5utoW4FUM92&format=png&color=000000"
 </p>
 
 ### 🌎 Conecte-se comigo
-
-#### **Meu linkedin:** <a href="https://www.linkedin.com/in/eduardo-oliveira-1b8774228/"><img width="20px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/eduardo-oliveira-1b8774228/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
-### 📊 Status & Estatísticas
+## 📌 Projetos
+<ul>
+  <li>
+     <b>Pokemon - API</b><br/>
+    🔗 <a href="https://github.com/vitorgabriel100/ml-brasileirao-corinthians">Ver repositório</a>
+  </li>
+  </ul>
+
+## 📊 Status & Estatísticas
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoFFarias&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
