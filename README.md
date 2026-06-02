@@ -62,6 +62,10 @@ src ="https://img.icons8.com/?size=100&id=y5utoW4FUM92&format=png&color=000000"
      <b>Pokemon - API</b><br/>
     🔗 <a href="https://github.com/EduardoFFarias/Pokemon_API">Ver repositório</a>
   </li>
+  <li>
+     <b>Automação envio de relatório de vendas</b><br/>
+    🔗 <a href="https://github.com/EduardoFFarias/automacao_relatorio_vendas">Ver repositório</a>
+  </li>
   </ul>
 
 ## 📊 Status & Estatísticas
